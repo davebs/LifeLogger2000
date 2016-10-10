@@ -11,7 +11,7 @@ import time
 import datetime
 
 w = win32gui
-logfile = open('logfile.csv', 'w+')
+logfile = open('logfile.csv', 'ab')
 
 last_window_title = None
 seconds_spent = 1
