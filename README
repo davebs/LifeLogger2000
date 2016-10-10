@@ -1,0 +1,8 @@
+LifeLogger2000 - life logger for windows in python
+
+Log window titles and time spent in each window to a CSV file.
+CSV is visualized separately. Conveniently catches tab titles
+in chrome so it works for both native software and for figuring out
+which specific sites you spend too much time on every day. 
+
+MIT license. author: @_davesullivan
