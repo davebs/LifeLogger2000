@@ -27,7 +27,7 @@ while True:
         last_window_title = current_window_title
         seconds_spent = 1
     else:
-        seconds_spent += 2
+        seconds_spent += 1
     if times_run % 10:
         print 'has run for %i iterations' % times_run
     times_run += 1
