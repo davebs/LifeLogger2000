@@ -1,5 +1,5 @@
 """
-Life logger -- Log window titles and how time spent in each window to a CSV file.
+Life logger -- Log window titles and time spent in each window to a CSV file.
 for            CSV is visualized separately. Conveniently catches tab titles
 Windows        in chrome so it works for both native software and for figuring out
                which specific sites you spend too much time on every day. 
