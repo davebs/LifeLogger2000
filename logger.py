@@ -28,7 +28,7 @@ while True:
         seconds_spent = 1
     else:
         seconds_spent += 1
-    if times_run % 10:
+    if times_run % 10 == 0:
         print 'has run for %i iterations' % times_run
     times_run += 1
     time.sleep(2)
